@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5aa88186a4631ecafc42394b"},"id":10,"nombre":"Jurgen Klaric","email":"JK@biia.com","pass":"12345","__v":0}
+{"_id":{"$oid":"5aa9d1f7656993eb40c32775"},"id":796,"nombre":"Ignacio Centeno","email":"IC@mail.com","pass":"$2a$10$A4Qzz.0Uxwp4qcXAkdG5XujHbhdPcm5bSWj7FD3oQPo3oWMpSChYe","__v":0}
